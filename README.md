@@ -6,4 +6,6 @@ Below, the confidence rating indicates how sure we are the code is as accurate a
 
 | Code | Summary | Description | Confidence |
 | --- | --- | --- | --- |
+| **H35000** | Previous Question Ordered Pursuant to Rule | The "Previous Question" is a motion to shut down debate or to force an action. It is used to shut down debate and speed along the action process. | Needs work. How does this differ from H41400 in meaning? |
+| **H41400** | Previous Question Ordered Without Objection | The "Previous Question" is a motion to shut down debate or to force an action. It is used to shut down debate and speed along the action process. | Needs work. How does this differ from H35000 in meaning? |
 | **H8D000** | Debate | The measure is given approval for debate | :heavy_check_mark: |
