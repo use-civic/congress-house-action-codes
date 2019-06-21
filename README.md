@@ -8,5 +8,5 @@ Below, the confidence rating indicates how sure we are the code is as accurate a
 | --- | --- | --- | --- |
 | **H35000** | Previous Question Ordered Pursuant to Rule | The "Previous Question" is a motion to shut down debate or to force an action. It is used to shut down debate and speed along the action process. | Needs work. How does this differ from H41400 in meaning? |
 | **H41400** | Previous Question Ordered Without Objection | The "Previous Question" is a motion to shut down debate or to force an action. It is used to shut down debate and speed along the action process. | Needs work. How does this differ from H35000 in meaning? |
-| **H41931** | Motion to Reconsider Laid On The Table: Agreed Without Objection | A motion to reconsider "Laid on the Table" was agreed to, without objection. This means the pending measure is suspended in consideration; often used as a delay tactic, as when passed, this motion is not debatable. | :heavy_check_mark: |
+| **H41931** | Motion to Reconsider Laid On The Table: Agreed Without Objection | A motion to reconsider was laid on the table.  | Needs work: it's unclear if this is the question by The Speaker post-vote, or if this was an action raised on the floor. It could even pertain to both. |
 | **H8D000** | Debate | The measure is given approval for debate | :heavy_check_mark: |
