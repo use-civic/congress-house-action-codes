@@ -6,7 +6,7 @@ Below, the confidence rating indicates how sure we are the code is as accurate a
 
 | Code | Summary | Description | Confidence |
 | --- | --- | --- | --- |
-| **H35000** | Previous Question Ordered Pursuant to Rule | The "Previous Question" is a motion to shut down debate or to force an action. It is used to shut down debate and speed along the action process. | Needs work. How does this differ from H41400 in meaning? |
-| **H41400** | Previous Question Ordered Without Objection | The "Previous Question" is a motion to shut down debate or to force an action. It is used to shut down debate and speed along the action process. | Needs work. How does this differ from H35000 in meaning? |
-| **H41931** | Motion to Reconsider Laid On The Table: Agreed Without Objection | A motion to reconsider was laid on the table.  | Needs work: it's unclear if this is the question by The Speaker post-vote, or if this was an action raised on the floor. It could even pertain to both. |
+| **H35000** | Previous Question Ordered Pursuant to Rule | The "Previous Question" is a motion to shut down debate or to force an action. It is used to shut down debate and speed along the action process. | [Open Issue](https://github.com/use-civic/united-states-congress-house-action-codes/issues/1) |
+| **H41400** | Previous Question Ordered Without Objection | The "Previous Question" is a motion to shut down debate or to force an action. It is used to shut down debate and speed along the action process. | [Open Issue](https://github.com/use-civic/united-states-congress-house-action-codes/issues/1) |
+| **H41931** | Motion to Reconsider Laid On The Table: Agreed Without Objection | [Open Issue](https://github.com/use-civic/united-states-congress-house-action-codes/issues/2) |
 | **H8D000** | Debate | The measure is given approval for debate | :heavy_check_mark: |
