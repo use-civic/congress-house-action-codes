@@ -6,4 +6,4 @@ Below, the confidence rating indicates how sure we are the code is as accurate a
 
 | Code | Summary | Description | Confidence |
 | --- | --- | --- | --- |
-| **H8D000** | Debate | The measure is given approval for debate | 100% :heavy_check_mark: |
+| **H8D000** | Debate | The measure is given approval for debate | :heavy_check_mark: |
