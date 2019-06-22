@@ -6,6 +6,7 @@ Below, the confidence rating indicates how sure we are the code is as accurate a
 
 | Code | Summary | Description | Confidence |
 | --- | --- | --- | --- |
+| **H25200** | Conference Report Filed | A report was filed in regards to a Senate/House conference | :heavy_check_mark: |
 | **H35000** | Previous Question Ordered Pursuant to Rule | The "Previous Question" is a motion to shut down debate or to force an action. It is used to shut down debate and speed along the action process. | [Open Issue](https://github.com/use-civic/united-states-congress-house-action-codes/issues/1) |
 | **H41400** | Previous Question Ordered Without Objection | The "Previous Question" is a motion to shut down debate or to force an action. It is used to shut down debate and speed along the action process. | [Open Issue](https://github.com/use-civic/united-states-congress-house-action-codes/issues/1) |
 | **H41610** | Vote Held Relating to Amendment Conference | A vote took place, which relates to a planned conference with the Senate in regards to an amendment to the bill. This most often pertains to setting up the conference, but also is the code used for motion to instruct conferees. | :heavy_check_mark: |
