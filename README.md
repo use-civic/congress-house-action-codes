@@ -18,3 +18,7 @@ Below, the confidence rating indicates how sure we are the code is as accurate a
 | **H42831** | Motion to Reconsider Laid on Table Without Objection | The option to reconsier or object to a prior vote was given to the Floor. This is often done after a vote to allow objection, or reconsideration, of a decision before finalizing the action. This is often done immediately after a vote by The Speaker. | :heavy_check_mark: |
 | **H8A000** | The Previous Question on Motion Was Ordered Without Objection | The Previous Question on a motion was ordered without objection. This code is independent of the action, it pertains to the act of the previous question having been ordered without objection. | :heavy_check_mark: |
 | **H8D000** | Debate | The measure is given approval for debate | :heavy_check_mark: |
+
+## License
+
+This project is public domain, please do as you wish.
